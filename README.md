@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/dart-lang/pub.svg?branch=master)](https://travis-ci.org/dart-lang/pub)
 
-Pub is the package manager for Dart.
+Pub is the package manager for Dart. Try this.
 
 # Contributing to pub
 
